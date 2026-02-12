@@ -4,7 +4,10 @@ author_profile: true
 title: "Latest Shiny Discoveries"
 excerpt: "Documenting every sparkle, one encounter at a time."
 header:
-  overlay_color: "#4a148c" # A rich purple
+  overlay_image: /assets/images/paldea.jpg # Use a screenshot of a Paldean sunset!
+  overlay_color: "#4a148c" # Your deep purple
+  overlay_filter: 0.5      # This tints the photo purple so the text stays readable
+  caption: "Paldea"
 feature_row:
   - image_path: /assets/images/pikachu.png
     alt: "Shiny Pikachu"
