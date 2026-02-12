@@ -20,7 +20,11 @@ plugins:
 # Sidebar/Author Settings
 author:
   name: "[Your Name]"
-  bio: "Shiny Hunter | Living Dex Progress: 12%"
+  bio: |
+    Shiny Hunter | Living Dex: 15/1025
+    <div style="background: #eee; border-radius: 5px; height: 10px; width: 100%; margin-top: 5px;">
+      <div style="background: #f1c40f; height: 10px; width: 1.5%; border-radius: 5px;"></div>
+    </div>
   avatar: "/assets/images/avatar.png" # You can upload a trainer sprite here!
   links:
     - label: "PokeDexTracker"
