@@ -4,7 +4,7 @@ author_profile: true
 title: "Latest Shiny Discoveries"
 excerpt: "Documenting every sparkle, one encounter at a time."
 header:
-  overlay_color: "#333"
+  overlay_color: "#4a148c" # A rich purple
 feature_row:
   - image_path: /assets/images/pikachu.png
     alt: "Shiny Pikachu"
