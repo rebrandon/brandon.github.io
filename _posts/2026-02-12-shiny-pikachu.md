@@ -4,6 +4,8 @@ title: "Shiny Pikachu"
 date: 2026-02-12
 header:
   teaser: /assets/images/pikachu.png 
+categories: catches
+tags: [Electric, Mass-Outbreak, Paldea]
 ---
 
 ### The Story
