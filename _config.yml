@@ -1,6 +1,6 @@
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dirt" # Options: "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin: "sunrise" # Options: "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 title: "Shiny Living Dex" # This appears in the top left 'Logo' area
