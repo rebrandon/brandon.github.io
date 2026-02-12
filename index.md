@@ -13,7 +13,7 @@ feature_row:
     url: "/catches/2026/02/12/shiny-pikachu.html"
     btn_label: "View Hunt"
     btn_class: "btn--primary"
-  - image_path: /assets/images/rayquaza.png
+  - image_path: /assets/images/rayquaza.jpg
     alt: "Shiny Rayquaza"
     title: "Rayquaza"
     excerpt: "The black dragon of the ozone layer."
