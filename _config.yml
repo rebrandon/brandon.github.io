@@ -18,6 +18,7 @@ plugins:
   - jekyll-feed
 
 # Sidebar/Author Settings
+search: true
 author:
   name: "Brandon the Slaking Master"
   bio: |
@@ -46,5 +47,5 @@ defaults:
       comments: false
       share: false
       related: true
-      search: true
+      
  
