@@ -1,9 +1,9 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome to my Shiny Journey"
-header:
-  overlay_color: "#333"
+title: "Shiny Living Dex"
 ---
+
+Welcome to my Shiny Hunting journey! This site tracks my progress as I hunt for every shiny Pokémon across the generations.
 
 ### Recent Catches
