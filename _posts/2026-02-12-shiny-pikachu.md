@@ -26,7 +26,7 @@ Write a few sentences here about how the hunt went! Did you almost fail it? Did 
 ---
 
 ### 📸 Gallery
-![Your Catch 1](/assets/images/catches/pikachu-1.jpg)
+![Your Catch 1](/assets/images/catches/Pokémon_Pikachu_art.png)
 *Capturing the sparkle!*
 
 ---
