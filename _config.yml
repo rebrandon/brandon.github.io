@@ -1,0 +1,41 @@
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dirt" # Options: "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
+
+# Site Settings
+title: "My Shiny Living Dex"
+name: "[Your Name]"
+description: "Documenting my journey to catch 'em all (in sparkles)."
+url: "https://[YourUsername].github.io" 
+baseurl: "" # Leave empty unless your repo is NOT named [username].github.io
+
+# Build Settings
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+# Sidebar/Author Settings
+author:
+  name: "[Your Name]"
+  bio: "Shiny Hunter | Living Dex Progress: 12%"
+  avatar: "/assets/images/avatar.png" # You can upload a trainer sprite here!
+  links:
+    - label: "PokeDexTracker"
+      icon: "fas fa-fw fa-link"
+      url: "https://pokedextracker.com/u/[YourUser]"
+
+# Defaults for Posts (The "Blog" Experience)
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
