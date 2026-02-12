@@ -33,3 +33,4 @@ Write a few sentences here about how the hunt went! Did you almost fail it? Did 
 
 ### 🗺️ Location
 Caught at **North Province (Area Three)** while hunting for something else entirely.
+ 
