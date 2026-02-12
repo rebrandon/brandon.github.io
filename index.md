@@ -20,7 +20,7 @@ feature_row:
     alt: "Shiny Rayquaza"
     title: "Rayquaza"
     excerpt: "The black dragon of the ozone layer."
-    url: "/catches/2026/02/12/welcome.html"
+    url: "/catches/2026/02/12/rayquaza.html"
     btn_label: "View Hunt"
     btn_class: "btn--primary"
 ---
