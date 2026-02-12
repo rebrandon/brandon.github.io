@@ -25,7 +25,7 @@ author:
     <div style="background: #eee; border-radius: 5px; height: 10px; width: 100%; margin-top: 5px;">
       <div style="background: #f1c40f; height: 10px; width: 1.5%; border-radius: 5px;"></div>
     </div>
-  avatar: "/assets/images/avatar.png" # You can upload a trainer sprite here!
+  avatar: "/assets/images/website pic 1.png" # You can upload a trainer sprite here!
   links:
     - label: "PokeDexTracker"
       icon: "fas fa-fw fa-link"
