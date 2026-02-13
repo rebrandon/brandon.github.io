@@ -1,15 +1,15 @@
 ---
 layout: single
-title: "Shiny Pikachu"
-date: 2026-02-12
+title: "Shiny Crobat"
+date: 2026-02-10
 header:
   teaser: /assets/images/pikachu.png 
 categories: catches
-tags: [Electric, Mass-Outbreak, Paldea]
+tags: [Poison, Flying, Random-Encounter, Hoenn, Full-Odds]
 ---
 
 ### The Story
-Write a few sentences here about how the hunt went! Did you almost fail it? Did it show up on the first sandwich?
+BUCKY is my Crobat that I caught many, many years ago in Emerald. I remember catching it as a Golbat in Meteor Falls while EV training. Because it's been decades since catching, I don't have any memory of exact dates, but I know that Crobat will always be my first shiny, and without a doubt, one of my all-time favorite Pokémon. 
 
 ---
 
@@ -17,18 +17,18 @@ Write a few sentences here about how the hunt went! Did you almost fail it? Did 
 
 | Detail | Info |
 | :--- | :--- |
-| **Species** | [Pokemon Name] |
-| **Game** | Pokémon Scarlet |
-| **Method** | Isolated Encounter / Outbreak / Masuda |
-| **Shiny Charm?** | Yes / No |
-| **Attempts/Time** | 342 Encounters / 2 Hours |
+| **Species** | [Crobat] |
+| **Game** | Pokémon Emerald |
+| **Method** | Random Encounter - Full Odds |
+| **Shiny Charm?** | No |
+| **Attempts/Time** | Wasn't looking for it at the time, just appeared |
 | **Nature** | Jolly |
-| **Mark/Ribbon** | The Recluse Mark |
+| **Mark/Ribbon** | None |
 
 ---
 
 ### 📸 Gallery
-![Your Catch 1](/assets/images/pikachu.png)
+![Your Catch 1](/assets/images/crobat_pla.gif)
 *Capturing the sparkle!*
 
 ---
